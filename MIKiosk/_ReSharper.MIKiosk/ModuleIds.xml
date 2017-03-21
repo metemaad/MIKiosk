@@ -1,0 +1,8 @@
+<Modules>
+  <Module PersistentId="969B628E-3C8A-4DB5-8BC0-F639F1A64279" ModuleId="MIKiosk.BusinessLayer" />
+  <Module PersistentId="32D8C2F0-931C-4672-B9B4-364C865BDDEE" ModuleId="MIKiosk.TV" />
+  <Module PersistentId="B9BE2ACC-4B41-4048-891A-973A9FDB3891" ModuleId="MIKiosk.Kiosk" />
+  <Module PersistentId="C47E50BC-3DA6-4F9C-9351-53501DEBB51E" ModuleId="MIKiosk.AdminUI" />
+  <Module PersistentId="F05A1C6C-8AB4-4345-94CE-7EFA31C4B1BA" ModuleId="MIKiosk.KioskI1" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+</Modules>

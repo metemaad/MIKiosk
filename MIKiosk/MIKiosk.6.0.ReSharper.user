@@ -1,0 +1,517 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:CategoryFetch.cs" caret="1827" fromTop="31" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:CurrencyMap.cs" caret="453" fromTop="18" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.designer.cs" caret="27961" fromTop="27" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:CategoryMap.cs" caret="129" fromTop="5" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdSpecFetchUI.Designer.cs" caret="1716" fromTop="11" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:CurrencyFetchUI.cs" caret="339" fromTop="12" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:CategoryList.cs" caret="1358" fromTop="16" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:CurrencyListUI.cs" caret="1895" fromTop="16" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:OrderMap.cs" caret="445" fromTop="17" />
+      <File id="C47E50BC-3DA6-4F9C-9351-53501DEBB51E/f:Form1.cs" caret="1608" fromTop="17" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:currency.cs" caret="533" fromTop="10" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Infrastructure/f:DataAccess.cs" caret="4980" fromTop="7" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:CategoryFetch.designer.cs" caret="1884" fromTop="14" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:CurrencyFetchUI.Designer.cs" caret="1782" fromTop="12" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdPriceTableRuleUI.Designer.cs" caret="9275" fromTop="15" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Controls/d:WinControls/f:BaseGridView.cs" caret="1410" fromTop="18" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:ProductSpecification.cs" caret="634" fromTop="13" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:ProductSpecificationMap.cs" caret="0" fromTop="0" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductsList.cs" caret="1733" fromTop="31" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Controls/d:WinControls/f:UIPart.cs" caret="1153" fromTop="8" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdSpecFetchUI.cs" caret="536" fromTop="6" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:Order.cs" caret="295" fromTop="9" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Infrastructure/f:Entity.cs" caret="2068" fromTop="5" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Controls/f:EntityFormService.cs" caret="1303" fromTop="15" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:PriceTableMap.cs" caret="394" fromTop="16" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.cs" caret="6032" fromTop="6" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdPriceTableRuleUI.cs" caret="463" fromTop="8" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:ProductMap.cs" caret="855" fromTop="22" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:Product.cs" caret="1617" fromTop="28" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="1210" fromTop="2" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdPriceTableRuleUI.cs" caret="937" fromTop="31" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdPriceTableRuleUI.cs" caret="1152" fromTop="16" />
+      <File id="C47E50BC-3DA6-4F9C-9351-53501DEBB51E/f:Form1.cs" caret="1654" fromTop="17" />
+      <File id="C47E50BC-3DA6-4F9C-9351-53501DEBB51E/f:Form1.cs" caret="1608" fromTop="17" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdPriceTableRuleUI.cs" caret="879" fromTop="12" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdPriceTableRuleUI.cs" caret="904" fromTop="12" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Infrastructure/f:Entity.cs" caret="6016" fromTop="13" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="564" fromTop="17" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:Product.cs" caret="952" fromTop="13" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:Product.cs" caret="1125" fromTop="19" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:ProductMap.cs" caret="939" fromTop="23" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="1226" fromTop="13" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="1148" fromTop="8" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="1571" fromTop="17" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="1772" fromTop="22" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="2245" fromTop="16" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="2755" fromTop="8" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.cs" caret="6303" fromTop="21" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:Product.cs" caret="1290" fromTop="16" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:Product.cs" caret="1617" fromTop="28" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.cs" caret="6574" fromTop="29" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.cs" caret="7145" fromTop="8" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProdPriceTableRuleUI.cs" caret="1177" fromTop="8" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.cs" caret="6755" fromTop="11" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:PriceTableMap.cs" caret="594" fromTop="20" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Mapping/f:PriceTableMap.cs" caret="394" fromTop="16" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.cs" caret="7064" fromTop="24" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="1455" fromTop="11" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:Model/f:PriceTable.cs" caret="2121" fromTop="26" />
+      <File id="969B628E-3C8A-4DB5-8BC0-F639F1A64279/d:Store/d:UIPart/f:ProductFetch.cs" caret="6032" fromTop="6" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="try" priority="95" />
+      <Item value="catch" priority="95" />
+      <Item value="Exception`0" priority="31" />
+      <Item value="this" priority="159" />
+      <Item value="Application`0" priority="31" />
+      <Item value="aCategoy" priority="32" />
+      <Item value="new" priority="480" />
+      <Item value="Categoy" priority="28" />
+      <Item value="using" priority="30" />
+      <Item value="MIKiosk" priority="30" />
+      <Item value="BusinessLayer" priority="26" />
+      <Item value="CategoryAttribute`0" priority="30" />
+      <Item value="foreach" priority="126" />
+      <Item value="var" priority="382" />
+      <Item value="radCarousel1" priority="95" />
+      <Item value="item" priority="192" />
+      <Item value="category" priority="63" />
+      <Item value="Product`0" priority="541" />
+      <Item value="MessageBox`0" priority="31" />
+      <Item value="Category`0" priority="317" />
+      <Item value="sender" priority="31" />
+      <Item value="DataAccess`0" priority="31" />
+      <Item value="EnvironmentVariableTarget`0" priority="95" />
+      <Item value="sel" priority="31" />
+      <Item value="x" priority="351" />
+      <Item value="sels" priority="159" />
+      <Item value="Font" priority="32" />
+      <Item value="ForeColor" priority="32" />
+      <Item value="Color`0" priority="32" />
+      <Item value="SubCategory`0" priority="510" />
+      <Item value="private" priority="191" />
+      <Item value="Void`0" priority="31" />
+      <Item value="void" priority="31" />
+      <Item value="IList" priority="63" />
+      <Item value="FillCatogoryMenu`0" priority="31" />
+      <Item value="catList" priority="31" />
+      <Item value="ProdList" priority="31" />
+      <Item value="SubCat_Click`0" priority="32" />
+      <Item value="FillSubCatogoryMenu`0" priority="31" />
+      <Item value="ObjectInstance" priority="384" />
+      <Item value="product" priority="194" />
+      <Item value="ShowProduct" priority="58" />
+      <Item value="prod" priority="287" />
+      <Item value="false" priority="63" />
+      <Item value="DockStyle`0" priority="95" />
+      <Item value="Closed" priority="31" />
+      <Item value="StripViewNewItemVisibility`0" priority="31" />
+      <Item value="true" priority="95" />
+      <Item value="public" priority="860" />
+      <Item value="return" priority="607" />
+      <Item value="virtual" priority="861" />
+      <Item value="Product" priority="258" />
+      <Item value="int" priority="125" />
+      <Item value="float" priority="159" />
+      <Item value="DateTime`0" priority="95" />
+      <Item value="Client" priority="65" />
+      <Item value="OrderItem`0" priority="191" />
+      <Item value="OrderItems" priority="32" />
+      <Item value="List" priority="31" />
+      <Item value="DiscountCode" priority="32" />
+      <Item value="Entity`0" priority="159" />
+      <Item value="string" priority="255" />
+      <Item value="bool" priority="31" />
+      <Item value="Client`0" priority="63" />
+      <Item value="DiscountCode`0" priority="31" />
+      <Item value="References`1" priority="159" />
+      <Item value="Order`0" priority="63" />
+      <Item value="Map`0" priority="63" />
+      <Item value="byte" priority="63" />
+      <Item value="override" priority="63" />
+      <Item value="if" priority="445" />
+      <Item value="null" priority="415" />
+      <Item value="CategoryFetch`0" priority="32" />
+      <Item value="pictureBox1" priority="127" />
+      <Item value="ByteArrayToImage`0" priority="63" />
+      <Item value="openFileDialog1" priority="63" />
+      <Item value="ImageToByteArray`0" priority="63" />
+      <Item value="Image`0" priority="129" />
+      <Item value="i" priority="31" />
+      <Item value="HasMany`1" priority="63" />
+      <Item value="CategoryByteImage" priority="63" />
+      <Item value="value" priority="95" />
+      <Item value="_CategoryImage" priority="95" />
+      <Item value="Width" priority="31" />
+      <Item value="GetAccessibilityObjectById`0" priority="31" />
+      <Item value="Type`0" priority="31" />
+      <Item value="typeof" priority="186" />
+      <Item value="ProductSelection" priority="31" />
+      <Item value="else" priority="191" />
+      <Item value="LoadProducts`0" priority="31" />
+      <Item value="ShowMenu" priority="29" />
+      <Item value="menu" priority="159" />
+      <Item value="radPanel1" priority="127" />
+      <Item value="UIPart" priority="313" />
+      <Item value="baseGridView1" priority="30" />
+      <Item value="IConfigurable`0" priority="94" />
+      <Item value="container" priority="61" />
+      <Item value="Category" priority="221" />
+      <Item value="ObjectView" priority="30" />
+      <Item value="Store" priority="30" />
+      <Item value="SubCatList`0" priority="26" />
+      <Item value="SubCatFetch`0" priority="26" />
+      <Item value="in" priority="30" />
+      <Item value="dictionary" priority="94" />
+      <Item value="d" priority="61" />
+      <Item value="label2" priority="31" />
+      <Item value="LoadImage`0" priority="31" />
+      <Item value="sc" priority="95" />
+      <Item value="comboBox1" priority="191" />
+      <Item value="SubCategory" priority="28" />
+      <Item value="s" priority="31" />
+      <Item value="Image" priority="32" />
+      <Item value="ProductImageByte" priority="63" />
+      <Item value="ProductClose" priority="31" />
+      <Item value="ProductAddtobasket" priority="31" />
+      <Item value="OrderItem" priority="158" />
+      <Item value="_orderItem" priority="31" />
+      <Item value="order" priority="96" />
+      <Item value="Order" priority="28" />
+      <Item value="radLabel1" priority="31" />
+      <Item value="GetHashCode`0" priority="31" />
+      <Item value="SetOldv`0" priority="31" />
+      <Item value="image" priority="31" />
+      <Item value="_enumerator" priority="31" />
+      <Item value="Bitmap`0" priority="31" />
+      <Item value="mBitmap" priority="63" />
+      <Item value="Stream`0" priority="31" />
+      <Item value="pngStream" priority="63" />
+      <Item value="ImageFormatConverter`0" priority="31" />
+      <Item value="BitmapImage`0" priority="31" />
+      <Item value="BitmapImage" priority="28" />
+      <Item value="b" priority="95" />
+      <Item value="imgbrush" priority="31" />
+      <Item value="ProductUnit`0" priority="285" />
+      <Item value="exception" priority="97" />
+      <Item value="UpdateData`0" priority="95" />
+      <Item value="textBox1" priority="31" />
+      <Item value="ProductUnitListUI`0" priority="31" />
+      <Item value="ProductUntiFetchUI`0" priority="31" />
+      <Item value="radDropDownList1" priority="31" />
+      <Item value="DirectoryNotFoundException`0" priority="31" />
+      <Item value="ProductSpecifications" priority="32" />
+      <Item value="ProductSpecification`0" priority="307" />
+      <Item value="ObjectInstanceP" priority="31" />
+      <Item value="newInstance" priority="31" />
+      <Item value="ProdSpecFetchUI`0" priority="31" />
+      <Item value="is" priority="31" />
+      <Item value="ToolboxItemFilterType`0" priority="31" />
+      <Item value="o" priority="126" />
+      <Item value="Dictionary" priority="31" />
+      <Item value="object" priority="31" />
+      <Item value="Dictionary&lt;string,object&gt;" priority="28" />
+      <Item value="a" priority="95" />
+      <Item value="Currency`0" priority="348" />
+      <Item value="PriceTable`0" priority="479" />
+      <Item value="PriceTables" priority="96" />
+      <Item value="Price" priority="31" />
+      <Item value="FixedPrice" priority="31" />
+      <Item value="Currency" priority="97" />
+      <Item value="c" priority="31" />
+      <Item value="pt" priority="63" />
+      <Item value="FixedPricecurrency" priority="31" />
+      <Item value="UpdateDataspec`0" priority="31" />
+      <Item value="empty" priority="31" />
+      <Item value="CurrencyFetchUI`0" priority="63" />
+      <Item value="CurrencyListUI`0" priority="31" />
+      <Item value="ProdPriceTableRuleUI`0" priority="63" />
+      <Item value="UpdateDataPricetable`0" priority="63" />
+      <Item value="tmp" priority="63" />
+      <Item value="numericUpDown1" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="Exit`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@MIKiosk.BusinessLayer.Infrastructure.DataAccess">
+      <Item value="NhSession" priority="107" />
+      <Item value="UpdateDatabase`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:NHibernate.ISession">
+      <Item value="QueryOver`1" priority="80" />
+      <Item value="Query`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.WinControls.UI.RadCarousel">
+      <Item value="Items" priority="53" />
+      <Item value="Visible" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.WinControls.RadItemCollection">
+      <Item value="Clear`0" priority="27" />
+      <Item value="AddRange`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.Category">
+      <Item value="CategoryName" priority="80" />
+      <Item value="CategoryByteImage" priority="53" />
+      <Item value="CategoryImage" priority="53" />
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.Product">
+      <Item value="ProductName" priority="108" />
+      <Item value="ProductId" priority="26" />
+      <Item value="ProductDescription" priority="26" />
+      <Item value="SubCategory" priority="161" />
+      <Item value="ProductImageID" priority="27" />
+      <Item value="ProductImageByte" priority="80" />
+      <Item value="ProductImage" priority="53" />
+      <Item value="ProductUnit" priority="107" />
+      <Item value="StockHighLevel" priority="26" />
+      <Item value="StockLowLevel" priority="26" />
+      <Item value="ProductSpecification" priority="26" />
+      <Item value="ProductSpecifications" priority="80" />
+      <Item value="FixedPricecurrency" priority="53" />
+      <Item value="Id" priority="53" />
+      <Item value="PriceTables" priority="80" />
+      <Item value="FixedPrice" priority="26" />
+      <Item value="Persist`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.WinControls.UI.RadButtonElement">
+      <Item value="Click" priority="26" />
+      <Item value="Name" priority="26" />
+      <Item value="Image" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Linq.IQueryable`1">
+      <Item value="ToList`1" priority="26" />
+      <Item value="ToFuture`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Where`1" priority="107" />
+      <Item value="First`1" priority="109" />
+      <Item value="Count" priority="81" />
+      <Item value="AddRange`0" priority="54" />
+      <Item value="Add`0" priority="53" />
+      <Item value="ToList`1" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="ToList`1" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Navy" priority="27" />
+      <Item value="DarkGreen" priority="27" />
+      <Item value="DarkRed" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.SubCategory">
+      <Item value="SubCategoryName" priority="163" />
+      <Item value="Category" priority="107" />
+      <Item value="SubCategoryByteImage" priority="26" />
+      <Item value="SubCategoryImage" priority="27" />
+      <Item value="SubCategoryId" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.KioskI1.Form1">
+      <Item value="Controls" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Control+ControlCollection">
+      <Item value="Add`0" priority="80" />
+      <Item value="Clear`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.KioskI1.Controls.ShowProduct">
+      <Item value="ObjectInstance" priority="53" />
+      <Item value="Dock" priority="53" />
+      <Item value="BringToFront`0" priority="26" />
+      <Item value="Disposed" priority="26" />
+      <Item value="Dispose`0" priority="26" />
+      <Item value="ProductClose" priority="26" />
+      <Item value="ProductAddtobasket" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DockStyle">
+      <Item value="Fill" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.DiscountCode">
+      <Item value="Client" priority="26" />
+      <Item value="discountCode" priority="26" />
+      <Item value="IsUsed" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.ManyToOnePart`1">
+      <Item value="Nullable`0" priority="107" />
+      <Item value="Not" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.OrderItem">
+      <Item value="Product" priority="53" />
+      <Item value="Quantity" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.Order">
+      <Item value="Client" priority="26" />
+      <Item value="DiscountCode" priority="26" />
+      <Item value="OrderNo" priority="26" />
+      <Item value="OrderDate" priority="26" />
+      <Item value="OrderItems" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Image" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="Dispose`0" priority="26" />
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="FileName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Image">
+      <Item value="FromFile`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.PropertyPart">
+      <Item value="Length`0" priority="26" />
+      <Item value="Not" priority="80" />
+      <Item value="LazyLoad`0" priority="53" />
+      <Item value="Nullable`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Image">
+      <Item value="Size" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.WinControls.UI.RadPanel">
+      <Item value="Controls" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.KioskI1.Controls.ShowMenu">
+      <Item value="Dock" priority="26" />
+      <Item value="ProductSelection" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HRGControls.WinControls.BaseGridView">
+      <Item value="SelectedRows" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DataGridViewRow">
+      <Item value="DataBoundItem" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Infrastructure.Entity">
+      <Item value="GetType`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="80" />
+      <Item value="Value" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Label">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ComboBox">
+      <Item value="DataSource" priority="26" />
+      <Item value="DisplayMember" priority="26" />
+      <Item value="ValueMember" priority="26" />
+      <Item value="SelectedItem" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.WinControls.UI.RadLabel">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.ProductUnit">
+      <Item value="UnitName" priority="80" />
+      <Item value="Id" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Controls.Image">
+      <Item value="Source" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerator`1">
+      <Item value="Current" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="GetHbitmap`0" priority="26" />
+      <Item value="GetFrameCount`0" priority="26" />
+      <Item value="Save`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.Stream">
+      <Item value="Read`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Imaging.ImageFormat">
+      <Item value="Jpeg" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.WinControls.UI.RadDropDownList">
+      <Item value="SelectedItem" priority="26" />
+      <Item value="SelectedIndex" priority="26" />
+      <Item value="Items" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Telerik.WinControls.UI.RadListDataItem">
+      <Item value="Selected" priority="26" />
+      <Item value="DataBoundItem" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.ProductSpecification">
+      <Item value="SpecificationName" priority="26" />
+      <Item value="SpecificationNote" priority="26" />
+      <Item value="SpecificationValue" priority="26" />
+      <Item value="Product" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FluentNHibernate.Mapping.OneToManyPart`1">
+      <Item value="Not" priority="53" />
+      <Item value="LazyLoad`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="Values" priority="53" />
+      <Item value="Keys" priority="26" />
+      <Item value="Add`0" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="Add`0" priority="26" />
+      <Item value="Count" priority="26" />
+      <Item value="Remove`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Length" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.Currency">
+      <Item value="RateToBaseCurrency" priority="53" />
+      <Item value="Name" priority="107" />
+      <Item value="Symbol" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:MIKiosk.BusinessLayer.Store.Model.PriceTable">
+      <Item value="SDateTime" priority="80" />
+      <Item value="Product" priority="134" />
+      <Item value="EDateTime" priority="53" />
+      <Item value="Price" priority="53" />
+      <Item value="Currency" priority="161" />
+      <Item value="Currentprice" priority="26" />
+      <Item value="Currentpricecurrency" priority="26" />
+      <Item value="Persist`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="53" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

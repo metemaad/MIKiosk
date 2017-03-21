@@ -1,0 +1,15 @@
+C:\MiKiosk\MIKiosk.Kiosk\bin\Debug\MIKiosk.Kiosk.exe
+C:\MiKiosk\MIKiosk.Kiosk\bin\Debug\MIKiosk.Kiosk.pdb
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\MainWindow.baml
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\MainWindow.g.cs
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\App.g.cs
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\MIKiosk.Kiosk_MarkupCompile.cache
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\MIKiosk.Kiosk.g.resources
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\MIKiosk.Kiosk.Properties.Resources.resources
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\MIKiosk.Kiosk.exe
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\MIKiosk.Kiosk.pdb
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\CategoryList.baml
+C:\MiKiosk\MIKiosk.Kiosk\obj\x86\Debug\CategoryList.g.cs

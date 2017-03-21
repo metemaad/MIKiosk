@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MIKiosk.BusinessLayer.Controls.EntityFormService" Collapsed="true">
+    <Position X="34.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAgAAAgCAQAAAAIAAAAAEAAAACAAIAAAAAAAA=</HashCode>
+      <FileName>Controls\EntityFormService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Controls.WinControls.BaseGridView" Collapsed="true">
+    <Position X="34.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAEACAIAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\WinControls\BaseGridView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Controls.WinControls.UiPart" Collapsed="true">
+    <Position X="6" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EEAAAAAAACAACAAAAACgAAgCAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Controls\WinControls\UIPart.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="HRGControls.WinControls.MainForm" Collapsed="true">
+    <Position X="33" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUAACCAAAAABAAKAEAACAAAAAAEIAAAAAAAAACA=</HashCode>
+      <FileName>Controls\WinControls\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HRGControls.WinControls.MainFormDataEntry" Collapsed="true">
+    <Position X="34.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAUkQCCAAAAABAAKAAAICAAAAAAGIAIAAAAAAACA=</HashCode>
+      <FileName>Controls\WinControls\MainFormDataEntry.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HRGControls.WinControls.ObjectSelection" Collapsed="true">
+    <Position X="36.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAACAECAAAAACAAAACAQAIAAAAEBAAAAAQACA=</HashCode>
+      <FileName>Controls\WinControls\ObjectSelection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HRGControls.WinControls.ObjectSelectionList" Collapsed="true">
+    <Position X="38.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADQAJgAAACAAAACAAACDkAACEQAYAAAAEAACCAAAACA=</HashCode>
+      <FileName>Controls\WinControls\ObjectSelectionList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Infrastructure.AutoSizeAttribute" Collapsed="true">
+    <Position X="33" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\AutoSizeAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Infrastructure.DataAccess" Collapsed="true">
+    <Position X="40" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAgAAAAAAAEQAAAAUAAAQAAAQgCQEAIAIAAA=</HashCode>
+      <FileName>Infrastructure\DataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Infrastructure.Entity&lt;T&gt;" Collapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAABAECADAAAkIQAAAIBAAEQAKEAAAIAAAAAAjE=</HashCode>
+      <FileName>Infrastructure\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Infrastructure.Entity" Collapsed="true">
+    <Position X="13.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Infrastructure\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Infrastructure.LogableAttribute" Collapsed="true">
+    <Position X="38.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Infrastructure\LogableAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Infrastructure.ObjectViewAttribute" Collapsed="true">
+    <Position X="40" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAABAA=</HashCode>
+      <FileName>Infrastructure\ObjectViewAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.InfraStructure.ImageFile" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="36.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAEAAAAAACAAAAAAAAAABAAACAAAAAAAAQAAAAAAABA=</HashCode>
+      <FileName>Infrastructure\ImageFile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Login.Mapping.UserMap" Collapsed="true">
+    <Position X="33" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Login\Mapping\UserMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Login.Model.User" Collapsed="true">
+    <Position X="28.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAEAAAAAAAAAAAgAAAAAAAAAAAAAAAQAAAAAAAAg=</HashCode>
+      <FileName>Login\Model\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Loging.Mapping.LogDataMap" Collapsed="true">
+    <Position X="40" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Loging\Mapping\LogDataMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Loging.Model.LogData" Collapsed="true">
+    <Position X="30.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAQIEAACAAAAAAAAAAAQAAAABAAAAYAAAAAAAAA=</HashCode>
+      <FileName>Loging\Model\LogData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.CategoryMap" Collapsed="true">
+    <Position X="36.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\CategoryMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.ClientMap" Collapsed="true">
+    <Position X="38.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\ClientMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.DiscountCodeMap" Collapsed="true">
+    <Position X="33" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\DiscountCodeMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.OrderItemMap" Collapsed="true">
+    <Position X="33" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\OrderItemMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.OrderMap" Collapsed="true">
+    <Position X="34.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\OrderMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.ProductMap" Collapsed="true">
+    <Position X="36.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\ProductMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.ProductUnitMap" Collapsed="true">
+    <Position X="38.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\ProductUnitMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Mapping.SubCategoryMap" Collapsed="true">
+    <Position X="40" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Store\Mapping\SubCategoryMap.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.Address" Collapsed="true">
+    <Position X="1.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Store\Model\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.Category" Collapsed="true">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAggAAAAAEAAAACBAAAAAAAAAAAEQBAA=</HashCode>
+      <FileName>Store\Model\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.Client" Collapsed="true">
+    <Position X="10.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAQAAAAAAAAAACAAAAAAAABAg=</HashCode>
+      <FileName>Store\Model\Client.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.DiscountCode" Collapsed="true">
+    <Position X="14.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQ=</HashCode>
+      <FileName>Store\Model\DiscountCode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.Order" Collapsed="true">
+    <Position X="19.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAABAAEECAAAAAAAAAAAAAAAAAAAAAAAAAAQAFAY=</HashCode>
+      <FileName>Store\Model\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.OrderItem" Collapsed="true">
+    <Position X="23.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAgAAAAAAAAAAAAgAAAAAAAAAAgAAABAA=</HashCode>
+      <FileName>Store\Model\OrderItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.PhoneNumber" Collapsed="true">
+    <Position X="26" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Store\Model\PhoneNumber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.PriceTable" Collapsed="true">
+    <Position X="3.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQAAAAAAAABAAAABAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Store\Model\PriceTable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.Product" Collapsed="true">
+    <Position X="8" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAIEgAQBAAIgAgAAAAAABCABAAAAAACAgCAAYBAA=</HashCode>
+      <FileName>Store\Model\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.ProductUnit" Collapsed="true">
+    <Position X="12.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAABAA=</HashCode>
+      <FileName>Store\Model\ProductUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.SubCategory" Collapsed="true">
+    <Position X="17" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAgAAABAAAAAAgBAAAAAAAAAAAAwDQA=</HashCode>
+      <FileName>Store\Model\SubCategory.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.Model.Supplier" Collapsed="true">
+    <Position X="21.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAAAQAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Store\Model\Supplier.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.UIPart.CategoryFetch" Collapsed="true">
+    <Position X="7.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAABAAAACAAABgACACAQAACAABIAAAAESAAAABAACA=</HashCode>
+      <FileName>Store\UIPart\CategoryFetch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.UIPart.CategoryList" Collapsed="true">
+    <Position X="9.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAECAAALEFAACCAAACAAAAAAIAEAAAAAAAAKA=</HashCode>
+      <FileName>Store\UIPart\CategoryList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.UIPart.ProductFetch" Collapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgBAAAACAAABgQAACgQAgCAABIAAAAEAAQAABAACA=</HashCode>
+      <FileName>Store\UIPart\ProductFetch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.UIPart.ProductsList" Collapsed="true">
+    <Position X="0.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAECAAALEBAACCAAACAAAAAAIAEAAAAAAAACA=</HashCode>
+      <FileName>Store\UIPart\ProductsList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.UIPart.SubCatFetch" Collapsed="true">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAAABgAAACAQAACgABIAAAAEUAAAABAACA=</HashCode>
+      <FileName>Store\UIPart\SubCatFetch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MIKiosk.BusinessLayer.Store.UIPart.SubCatList" Collapsed="true">
+    <Position X="5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAECAAALABAACAAAACAAAAAAIAEQAAAABAADQ=</HashCode>
+      <FileName>Store\UIPart\SubCatList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="HRGControls.WinControls.IUiPart" Collapsed="true">
+    <Position X="38.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\WinControls\IUIPart.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MIKiosk.BusinessLayer.Infrastructure.IConfigurable" Collapsed="true">
+    <Position X="33" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\IConfigurable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MIKiosk.BusinessLayer.Infrastructure.IPersistable" Collapsed="true">
+    <Position X="36.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAIAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Infrastructure\IPersistable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MIKiosk.BusinessLayer.InfraStructure.IFile" Collapsed="true">
+    <Position X="34.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAABA=</HashCode>
+      <FileName>Infrastructure\IFile.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="MIKiosk.BusinessLayer.Loging.Model.LogType" Collapsed="true">
+    <Position X="33" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAIACAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Loging\Model\LogType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MIKiosk.BusinessLayer.Store.Model.OrderStatus" Collapsed="true">
+    <Position X="34.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAAAAAAAIAAAAAAAAAAQIAAAACAACAAAAAAAA=</HashCode>
+      <FileName>Store\Model\OrderStatus.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="HRGControls.WinControls.SelectedItemChanged" Collapsed="true">
+    <Position X="33" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controls\WinControls\ObjectSelection.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

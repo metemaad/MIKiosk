@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{969B628E-3C8A-4DB5-8BC0-F639F1A64279}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MIKiosk.BusinessLayer</RootNamespace>
+    <AssemblyName>MIKiosk.BusinessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FarsiLibrary.Resources">
+      <HintPath>..\ExternalDll\FarsiLibrary.Resources.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiLibrary.Utils">
+      <HintPath>..\ExternalDll\FarsiLibrary.Utils.dll</HintPath>
+    </Reference>
+    <Reference Include="FarsiLibrary.Win">
+      <HintPath>..\ExternalDll\FarsiLibrary.Win.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentNHibernate">
+      <HintPath>..\ExternalDll\FluentNHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate">
+      <HintPath>..\ExternalDll\NHibernate.dll</HintPath>
+    </Reference>
+    <Reference Include="NHibernate.Validator">
+      <HintPath>..\ExternalDll\NHibernate.Validator.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.WinControls, Version=2011.2.11.712, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.RichTextBox, Version=2011.2.11.712, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="Telerik.WinControls.UI, Version=2011.2.11.712, Culture=neutral, PublicKeyToken=5bb2a467cbec794e, processorArchitecture=MSIL" />
+    <Reference Include="TelerikCommon, Version=2011.2.11.712, Culture=neutral, PublicKeyToken=5bb2a467cbec794e" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controls\EntityFormService.cs" />
+    <Compile Include="Controls\WinControls\BaseGridView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\WinControls\BaseGridView.designer.cs">
+      <DependentUpon>BaseGridView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WinControls\IUIPart.cs" />
+    <Compile Include="Controls\WinControls\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\WinControls\MainForm.designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WinControls\MainFormDataEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\WinControls\MainFormDataEntry.designer.cs">
+      <DependentUpon>MainFormDataEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WinControls\ObjectSelection.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\WinControls\ObjectSelection.designer.cs">
+      <DependentUpon>ObjectSelection.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WinControls\ObjectSelectionList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\WinControls\ObjectSelectionList.designer.cs">
+      <DependentUpon>ObjectSelectionList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WinControls\UIPart.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\WinControls\UIPart.designer.cs">
+      <DependentUpon>UIPart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Infrastructure\AutoSizeAttribute.cs" />
+    <Compile Include="Infrastructure\DataAccess.cs" />
+    <Compile Include="Infrastructure\Entity.cs" />
+    <Compile Include="Infrastructure\IConfigurable.cs" />
+    <Compile Include="Infrastructure\IFile.cs" />
+    <Compile Include="Infrastructure\ImageFile.cs" />
+    <Compile Include="Infrastructure\IPersistable.cs" />
+    <Compile Include="Infrastructure\LogableAttribute.cs" />
+    <Compile Include="Infrastructure\ObjectViewAttribute.cs" />
+    <Compile Include="Loging\Mapping\LogDataMap.cs" />
+    <Compile Include="Loging\Model\LogData.cs" />
+    <Compile Include="Loging\Model\LogType.cs" />
+    <Compile Include="Login\Mapping\UserMap.cs" />
+    <Compile Include="Login\Model\User.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Store\Mapping\CategoryMap.cs" />
+    <Compile Include="Store\Mapping\ClientMap.cs" />
+    <Compile Include="Store\Mapping\CurrencyMap.cs" />
+    <Compile Include="Store\Mapping\DiscountCodeMap.cs" />
+    <Compile Include="Store\Mapping\OrderItemMap.cs" />
+    <Compile Include="Store\Mapping\OrderMap.cs" />
+    <Compile Include="Store\Mapping\PriceTableMap.cs" />
+    <Compile Include="Store\Mapping\ProductMap.cs" />
+    <Compile Include="Store\Mapping\ProductSpecificationMap.cs" />
+    <Compile Include="Store\Mapping\ProductUnitMap.cs" />
+    <Compile Include="Store\Mapping\SubCategoryMap.cs" />
+    <Compile Include="Store\Model\Address.cs" />
+    <Compile Include="Store\Model\Category.cs" />
+    <Compile Include="Store\Model\Client.cs" />
+    <Compile Include="Store\Model\currency.cs" />
+    <Compile Include="Store\Model\DiscountCode.cs" />
+    <Compile Include="Store\Model\Order.cs" />
+    <Compile Include="Store\Model\OrderItem.cs" />
+    <Compile Include="Store\Model\OrderStatus.cs" />
+    <Compile Include="Store\Model\PhoneNumber.cs" />
+    <Compile Include="Store\Model\PriceTable.cs" />
+    <Compile Include="Store\Model\Product.cs" />
+    <Compile Include="Store\Model\ProductSpecification.cs" />
+    <Compile Include="Store\Model\ProductUnit.cs" />
+    <Compile Include="Store\Model\SubCategory.cs" />
+    <Compile Include="Store\Model\Supplier.cs" />
+    <Compile Include="Store\UIPart\CategoryFetch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\CategoryFetch.designer.cs">
+      <DependentUpon>CategoryFetch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\CategoryList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\CategoryList.designer.cs">
+      <DependentUpon>CategoryList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\CurrencyFetchUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\CurrencyFetchUI.Designer.cs">
+      <DependentUpon>CurrencyFetchUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\CurrencyListUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\CurrencyListUI.Designer.cs">
+      <DependentUpon>CurrencyListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\ProdPriceTableRuleUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\ProdPriceTableRuleUI.Designer.cs">
+      <DependentUpon>ProdPriceTableRuleUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\ProdSpecFetchUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\ProdSpecFetchUI.Designer.cs">
+      <DependentUpon>ProdSpecFetchUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductFetch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductFetch.designer.cs">
+      <DependentUpon>ProductFetch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductsList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductsList.designer.cs">
+      <DependentUpon>ProductsList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductUnitListUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductUnitListUI.Designer.cs">
+      <DependentUpon>ProductUnitListUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductUntiFetchUI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\ProductUntiFetchUI.Designer.cs">
+      <DependentUpon>ProductUntiFetchUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\SubCatFetch.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\SubCatFetch.Designer.cs">
+      <DependentUpon>SubCatFetch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Store\UIPart\SubCatList.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Store\UIPart\SubCatList.Designer.cs">
+      <DependentUpon>SubCatList.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controls\WinControls\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WinControls\MainFormDataEntry.resx">
+      <DependentUpon>MainFormDataEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WinControls\ObjectSelection.resx">
+      <DependentUpon>ObjectSelection.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WinControls\ObjectSelectionList.resx">
+      <DependentUpon>ObjectSelectionList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WinControls\UIPart.resx">
+      <DependentUpon>UIPart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\CategoryFetch.resx">
+      <DependentUpon>CategoryFetch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\CategoryList.resx">
+      <DependentUpon>CategoryList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\CurrencyFetchUI.resx">
+      <DependentUpon>CurrencyFetchUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\CurrencyListUI.resx">
+      <DependentUpon>CurrencyListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\ProdPriceTableRuleUI.resx">
+      <DependentUpon>ProdPriceTableRuleUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\ProdSpecFetchUI.resx">
+      <DependentUpon>ProdSpecFetchUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\ProductFetch.resx">
+      <DependentUpon>ProductFetch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\ProductsList.resx">
+      <DependentUpon>ProductsList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\ProductUnitListUI.resx">
+      <DependentUpon>ProductUnitListUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\ProductUntiFetchUI.resx">
+      <DependentUpon>ProductUntiFetchUI.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\SubCatFetch.resx">
+      <DependentUpon>SubCatFetch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Store\UIPart\SubCatList.resx">
+      <DependentUpon>SubCatList.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram1.cd" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
